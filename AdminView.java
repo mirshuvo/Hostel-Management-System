@@ -98,8 +98,9 @@ public class AdminView extends JFrame {
 	private JTable table;
 
 	/**
-	 * Create the frame.
+	 * Create the frame. ggggggggggggg gggggggggggggggggj jjjjjjjjjjjjj
 	 */
+	 
 	public AdminView() {
 		setTitle("Hostel Management System");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
